@@ -1,0 +1,34 @@
+{
+
+    "sources": [
+        {   "type": "directory",
+            "source": "overworldplus",
+            "prefix": "overworldplus/"
+        },
+        {   "type": "directory",
+            "source": "netherplus",
+            "prefix": "netherplus/"
+        },
+        {   "type": "directory",
+            "source": "endplus",
+            "prefix": "endplus/"
+        },
+        {   "type": "directory",
+            "source": "aetherplus",
+            "prefix": "aetherplus/"
+        },
+        {   "type": "directory",
+            "source": "cosmeticsplus",
+            "prefix": "cosmeticsplus/"
+        },
+        {   "type": "directory",
+            "source": "interfaceplus",
+            "prefix": "interfaceplus/"
+        },
+        {   "type": "directory",
+            "source": "emeraldplus",
+            "prefix": "emeraldplus/"
+        }
+    ]
+
+}

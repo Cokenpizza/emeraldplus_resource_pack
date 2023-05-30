@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 3022 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_axe"},
+    { "predicate": {  "custom_model_data": 3031 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_battleaxe"}
+	]
+}

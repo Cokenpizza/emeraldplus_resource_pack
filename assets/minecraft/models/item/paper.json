@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 3023 }, "model": "emeraldplus:overworldplus/mineralite/raw_mineralite"},
+		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
+		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
+		{ "predicate": {  "custom_model_data": 3025 }, "model": "emeraldplus:overworldplus/mineralite/ancient_mineral"}
+	]
+}

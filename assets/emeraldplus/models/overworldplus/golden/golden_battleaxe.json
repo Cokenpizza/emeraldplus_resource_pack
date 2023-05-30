@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "emeraldplus:overworldplus/golden/golden_battleaxe"
+    }
+}
