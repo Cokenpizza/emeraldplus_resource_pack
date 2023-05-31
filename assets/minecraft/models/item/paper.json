@@ -7,6 +7,12 @@
 		{ "predicate": {  "custom_model_data": 3023 }, "model": "emeraldplus:overworldplus/mineralite/raw_mineralite"},
 		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
 		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
-		{ "predicate": {  "custom_model_data": 3025 }, "model": "emeraldplus:overworldplus/mineralite/ancient_mineral"}
+		{ "predicate": {  "custom_model_data": 3025 }, "model": "emeraldplus:overworldplus/mineralite/ancient_mineral"},
+		{ "predicate": {  "custom_model_data": 5021 }, "model": "emeraldplus:endplus/enderite/ender_shard"},
+		{ "predicate": {  "custom_model_data": 5022 }, "model": "emeraldplus:endplus/enderite/dragon_scale"},
+		{ "predicate": {  "custom_model_data": 5023 }, "model": "emeraldplus:endplus/enderite/enderite_ingot"},
+		{ "predicate": {  "custom_model_data": 5051 }, "model": "emeraldplus:endplus/treasure/ender_key"},
+		{ "predicate": {  "custom_model_data": 5052 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_left"},
+		{ "predicate": {  "custom_model_data": 5052 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_right"}
 	]
 }
