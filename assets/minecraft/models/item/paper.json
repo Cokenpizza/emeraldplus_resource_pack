@@ -4,10 +4,17 @@
 		"layer0": "item/paper"
 	},
 	"overrides": [
+		{ "predicate": {  "custom_model_data": 2002 }, "model": "emeraldplus:emeraldplus/health/heart_crystal"},
+		{ "predicate": {  "custom_model_data": 2003 }, "model": "emeraldplus:emeraldplus/health/heart_shard"},
+		{ "predicate": {  "custom_model_data": 2004 }, "model": "emeraldplus:emeraldplus/health/heart_dust"},
+		{ "predicate": {  "custom_model_data": 2031 }, "model": "emeraldplus:emeraldplus/currency/emerald_shard"},
 		{ "predicate": {  "custom_model_data": 3023 }, "model": "emeraldplus:overworldplus/mineralite/raw_mineralite"},
 		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
 		{ "predicate": {  "custom_model_data": 3024 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_ingot"},
 		{ "predicate": {  "custom_model_data": 3025 }, "model": "emeraldplus:overworldplus/mineralite/ancient_mineral"},
+		{ "predicate": {  "custom_model_data": 3041 }, "model": "emeraldplus:overworldplus/treasure/fallen_star"},
+		{ "predicate": {  "custom_model_data": 3042 }, "model": "emeraldplus:overworldplus/treasure/beacon_core"},
+		{ "predicate": {  "custom_model_data": 4021 }, "model": "emeraldplus:netherplus/treasure/magic_mirror"},
 		{ "predicate": {  "custom_model_data": 5021 }, "model": "emeraldplus:endplus/enderite/ender_shard"},
 		{ "predicate": {  "custom_model_data": 5022 }, "model": "emeraldplus:endplus/enderite/dragon_scale"},
 		{ "predicate": {  "custom_model_data": 5023 }, "model": "emeraldplus:endplus/enderite/enderite_ingot"},
