@@ -5,22 +5,22 @@
             "type": "space",
             "advances":
                 {
-                "\uf001":-1,
-                "\uf004":-4,
-                "\uf005":-5,
-                "\uf008":-8,
-                "\uf010":-10,
-                "\uf020":-20,
-                "\uf050":-50,
-                "\uf01a":-100,
-                "\uf101":1,
-                "\uf104":4,
-                "\uf105":5,
-                "\uf108":8,
-                "\uf110":10,
-                "\uf120":20,
-                "\uf150":50,
-                "\uf11a":100
+                "":-1,
+                "":-4,
+                "":-5,
+                "":-8,
+                "":-10,
+                "":-20,
+                "":-50,
+                "":-100,
+                "":1,
+                "":4,
+                "":5,
+                "":8,
+                "":10,
+                "":20,
+                "":50,
+                "":100
                 }
         },
     {
@@ -485,7 +485,7 @@
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/blank_vanilla_menu.png",
-        "ascent": 170, "height": 170, "chars":["\ue1a0"]
+        "ascent": 47, "height": 170, "chars":[""]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/bottom_news.png",
