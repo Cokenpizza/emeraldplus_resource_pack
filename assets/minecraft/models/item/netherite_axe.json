@@ -7,6 +7,6 @@
 		{ "predicate": {  "custom_model_data": 3022 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_axe"},
     	{ "predicate": {  "custom_model_data": 3031 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_battleaxe"},
 		{ "predicate": {  "custom_model_data": 5032 }, "model": "emeraldplus:endplus/enderite/enderite_axe"},
-		{ "predicate": {  "custom_model_data": 5033 }, "model": "emeraldplus:endplus/enderite/enderite_batleaxe"}
+		{ "predicate": {  "custom_model_data": 5033 }, "model": "emeraldplus:endplus/enderite/enderite_battleaxe"}
 	]
 }
