@@ -10,6 +10,7 @@
                 "":-5,
                 "":-8,
                 "":-10,
+                "":-16,
                 "":-20,
                 "":-50,
                 "":-100,
@@ -485,7 +486,7 @@
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/blank_vanilla_menu.png",
-        "ascent": 47, "height": 170, "chars":[""]
+        "ascent": 47, "height": 170, "chars":["\ue1a0"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/bottom_news.png",
@@ -538,6 +539,410 @@
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_sunset.png",
         "ascent": 8, "height": 9, "chars":["\ue1ad"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/afk.png",
+        "ascent": 7, "height": 7, "chars":["\ue200"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue210"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue211"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue212"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue213"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue214"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue215"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue216"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue217"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_amethyst_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue218"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue219"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue21a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue21b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue21c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue21d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue21e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue21f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue220"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue221"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue222"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue223"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue224"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue225"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue226"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue227"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue228"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue229"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_copper_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue22a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue22b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue22c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue22d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue22e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue22f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue230"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue231"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue232"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_deepslate_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue233"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue234"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue235"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue236"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue237"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue238"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue239"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue23a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue23b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_diamond_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue23c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue23d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue23e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue23f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue240"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue241"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue242"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue243"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue244"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_gold_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue245"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue246"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue247"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue248"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue249"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue24a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue24b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue24c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue24d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_iron_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue24e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue24f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue250"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue251"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue252"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue253"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue254"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue255"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue256"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_lapis_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue257"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue258"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue259"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue25a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue25b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue25c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue25d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue25e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue25f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_quartz_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue260"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue261"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue262"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue263"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue264"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue265"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue266"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue267"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue268"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_redstone_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue269"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_i.png",
+        "ascent": 8, "height": 9, "chars":["\ue26a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_ii.png",
+        "ascent": 8, "height": 9, "chars":["\ue26b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_iii.png",
+        "ascent": 8, "height": 9, "chars":["\ue26c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_iv.png",
+        "ascent": 8, "height": 9, "chars":["\ue26d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_v.png",
+        "ascent": 8, "height": 9, "chars":["\ue26e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_vi.png",
+        "ascent": 8, "height": 9, "chars":["\ue26f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_vii.png",
+        "ascent": 8, "height": 9, "chars":["\ue270"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_viii.png",
+        "ascent": 8, "height": 9, "chars":["\ue271"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_stone_ix.png",
+        "ascent": 8, "height": 9, "chars":["\ue272"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_emerald.png",
+        "ascent": 8, "height": 9, "chars":["\ue273"]
     }
 ]
 
