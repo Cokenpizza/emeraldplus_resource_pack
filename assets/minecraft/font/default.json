@@ -5,22 +5,22 @@
             "type": "space",
             "advances":
                 {
-                "":-1,
-                "":-4,
-                "":-5,
-                "":-8,
-                "":-10,
-                "":-20,
-                "":-50,
-                "":-100,
-                "":1,
-                "":4,
-                "":5,
-                "":8,
-                "":10,
-                "":20,
-                "":50,
-                "":100
+                "\uf001":-1,
+                "\uf004":-4,
+                "\uf005":-5,
+                "\uf008":-8,
+                "\uf010":-10,
+                "\uf020":-20,
+                "\uf050":-50,
+                "\uf01a":-100,
+                "\uf101":1,
+                "\uf104":4,
+                "\uf105":5,
+                "\uf108":8,
+                "\uf110":10,
+                "\uf120":20,
+                "\uf150":50,
+                "\uf11a":100
                 }
         },
     {
@@ -38,11 +38,8 @@
         "chars":["\ue001"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/branding/server_name.png",
-        "ascent": 50,
-        "height": 50,
-        "chars":["\ue002"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/branding/server_name.png",
+        "ascent": 50, "height": 50, "chars":["\ue002"]
     },
     {
         "type":"bitmap",
@@ -400,7 +397,356 @@
         "ascent": 10,
         "height": 10,
         "chars":["\ue041"]
-    }
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/absorption.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue100"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/armor_toughness.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue101"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/armor.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue102"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/attack_damage.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue103"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/attack_speed.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue104"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/bad_omen.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue105"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/blast_resistance.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue106"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/blindness.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue107"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/conduit_power.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue108"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/dolphins_grace.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue109"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_axe.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10a"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_book.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10b"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_boots.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10c"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_bow.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10d"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_chestplate.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10e"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_crossbow.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue10f"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_curse.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue110"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_fishing_rod.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue111"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_helmet.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue112"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_hoe.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue113"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_leggings.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue114"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_pickaxe.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue115"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_shears.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue116"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_shovel.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue117"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_sword.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue118"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enchant_trident.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue119"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/enderbound.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue11a"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/fire_resistance.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue11b"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/food_full.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue11c"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/food_half.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue11d"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/glowing.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue11e"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/green_arrow_up.png",
+        "ascent": 7,
+        "height": 9,
+        "chars":["\ue11f"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/haste.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue120"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/health_boost.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue121"]
+    },
+    {
+        "type":"bitmap",
+        "file":"emeraldplus:interfaceplus/font/icon/hero_of_the_village.png",
+        "ascent": 8,
+        "height": 10,
+        "chars":["\ue122"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/hunger.png",
+        "ascent": 8, "height": 10, "chars":["\ue123"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/instant_damage.png",
+        "ascent": 8, "height": 10, "chars":["\ue124"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/instant_health.png",
+        "ascent": 8, "height": 10, "chars":["\ue125"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/invisibility.png",
+        "ascent": 8, "height": 10, "chars":["\ue126"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/jump_boost.png",
+        "ascent": 8, "height": 10, "chars":["\ue127"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/knockback_resistance.png",
+        "ascent": 8, "height": 10, "chars":["\ue128"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/levitation.png",
+        "ascent": 8, "height": 10, "chars":["\ue129"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/luck.png",
+        "ascent": 8, "height": 10, "chars":["\ue12a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/mineralite_luck.png",
+        "ascent": 8, "height": 10, "chars":["\ue12b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/mining_fatigue.png",
+        "ascent": 8, "height": 10, "chars":["\ue12c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/molten.png",
+        "ascent": 8, "height": 10, "chars":["\ue12d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/nausea.png",
+        "ascent": 8, "height": 10, "chars":["\ue12e"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/night_vision.png",
+        "ascent": 8, "height": 10, "chars":["\ue12f"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/poison.png",
+        "ascent": 8, "height": 10, "chars":["\ue130"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/red_arrow_down.png",
+        "ascent": 9, "height": 9, "chars":["\ue131"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/regeneration.png",
+        "ascent": 8, "height": 10, "chars":["\ue132"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/resistance.png",
+        "ascent": 8, "height": 10, "chars":["\ue133"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/saturation.png",
+        "ascent": 8, "height": 10, "chars":["\ue134"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/slow_falling.png",
+        "ascent": 8, "height": 10, "chars":["\ue135"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/slowness.png",
+        "ascent": 8, "height": 10, "chars":["\ue136"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/speed.png",
+        "ascent": 8, "height": 10, "chars":["\ue137"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/strength.png",
+        "ascent": 8, "height": 10, "chars":["\ue138"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/unluck.png",
+        "ascent": 8, "height": 10, "chars":["\ue139"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/water_breathing.png",
+        "ascent": 8, "height": 10, "chars":["\ue13a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/weakness.png",
+        "ascent": 8, "height": 10, "chars":["\ue13b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/wither.png",
+        "ascent": 8, "height": 10, "chars":["\ue13c"]
+    },
 ]
 
 }
