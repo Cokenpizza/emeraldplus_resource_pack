@@ -24,624 +24,360 @@
                 }
         },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/branding/server_icon.png",
-        "ascent": 50,
-        "height": 50,
-        "chars":["\ue000"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/branding/server_icon.png",
+        "ascent": 50, "height": 50, "chars":["\ue000"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/branding/server_name_ip.png",
-        "ascent": 50,
-        "height": 50,
-        "chars":["\ue001"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/branding/server_name_ip.png",
+        "ascent": 50, "height": 50, "chars":["\ue001"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/branding/server_name.png",
         "ascent": 50, "height": 50, "chars":["\ue002"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/alex.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue010"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/alex.png",
+        "ascent": 10, "height": 10, "chars":["\ue010"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/angel.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue011"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/angel.png",
+        "ascent": 10, "height": 10, "chars":["\ue011"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/angry.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue012"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/angry.png",
+        "ascent": 10, "height": 10, "chars":["\ue012"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/axe.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue013"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/axe.png",
+        "ascent": 10, "height": 10, "chars":["\ue013"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/cold_face.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue014"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/cold_face.png",
+        "ascent": 10, "height": 10, "chars":["\ue014"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/confused.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue015"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/confused.png",
+        "ascent": 10, "height": 10, "chars":["\ue015"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/crafting_table.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue016"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/crafting_table.png",
+        "ascent": 10, "height": 10, "chars":["\ue016"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/cry.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue017"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/cry.png",
+        "ascent": 10, "height": 10, "chars":["\ue017"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/diamond.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue018"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/diamond.png",
+        "ascent": 10, "height": 10, "chars":["\ue018"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/disappointed.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue019"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/disappointed.png",
+        "ascent": 10, "height": 10, "chars":["\ue019"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/dizzy_face.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01a"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/dizzy_face.png",
+        "ascent": 10, "height": 10, "chars":["\ue01a"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/emerald_plus.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01b"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/emerald_plus.png",
+        "ascent": 10, "height": 10, "chars":["\ue01b"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/emerald.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01c"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/emerald.png",
+        "ascent": 10, "height": 10, "chars":["\ue01c"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/expressionless.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01d"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/expressionless.png",
+        "ascent": 10, "height": 10, "chars":["\ue01d"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/eyes.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01e"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/eyes.png",
+        "ascent": 10, "height": 10, "chars":["\ue01e"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/face_vomiting.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue01f"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/face_vomiting.png",
+        "ascent": 10, "height": 10, "chars":["\ue01f"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/face_with_monocle.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue020"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/face_with_monocle.png",
+        "ascent": 10, "height": 10, "chars":["\ue020"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/frowning.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue021"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/frowning.png",
+        "ascent": 10, "height": 10, "chars":["\ue021"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/gold.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue021"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/gold.png",
+        "ascent": 10, "height": 10, "chars":["\ue021"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/golden_apple.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue022"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/golden_apple.png",
+        "ascent": 10, "height": 10, "chars":["\ue022"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/grass.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue023"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/grass.png",
+        "ascent": 10, "height": 10, "chars":["\ue023"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/heart_eyes.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue024"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/heart_eyes.png",
+        "ascent": 10, "height": 10, "chars":["\ue024"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/heart.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue025"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/heart.png",
+        "ascent": 10, "height": 10, "chars":["\ue025"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/iron_golem_flower.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue026"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/iron_golem_flower.png",
+        "ascent": 10, "height": 10, "chars":["\ue026"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/iron.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue027"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/iron.png",
+        "ascent": 10, "height": 10, "chars":["\ue027"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/joy.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue028"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/joy.png",
+        "ascent": 10, "height": 10, "chars":["\ue028"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/lapis.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue029"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/lapis.png",
+        "ascent": 10, "height": 10, "chars":["\ue029"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/lava_bucket.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02a"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/lava_bucket.png",
+        "ascent": 10, "height": 10, "chars":["\ue02a"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/mask.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02b"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/mask.png",
+        "ascent": 10, "height": 10, "chars":["\ue02b"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/nauseated_face.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02c"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/nauseated_face.png",
+        "ascent": 10, "height": 10, "chars":["\ue02c"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/nerd.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02d"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/nerd.png",
+        "ascent": 10, "height": 10, "chars":["\ue02d"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/pickaxe.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02e"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/pickaxe.png",
+        "ascent": 10, "height": 10, "chars":["\ue02e"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/redstone.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue02f"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/redstone.png",
+        "ascent": 10, "height": 10, "chars":["\ue02f"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/scream.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue030"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/scream.png",
+        "ascent": 10, "height": 10, "chars":["\ue030"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/shovel.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue031"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/shovel.png",
+        "ascent": 10, "height": 10, "chars":["\ue031"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/skull.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue032"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/skull.png",
+        "ascent": 10, "height": 10, "chars":["\ue032"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/sleeping.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue033"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sleeping.png",
+        "ascent": 10, "height": 10, "chars":["\ue033"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/smile.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue034"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/smile.png",
+        "ascent": 10, "height": 10, "chars":["\ue034"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/sneezing_face.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue035"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sneezing_face.png",
+        "ascent": 10, "height": 10, "chars":["\ue035"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/sob.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue036"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sob.png",
+        "ascent": 10, "height": 10, "chars":["\ue036"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/star_struck.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue037"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/star_struck.png",
+        "ascent": 10, "height": 10, "chars":["\ue037"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/steve.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue038"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/steve.png",
+        "ascent": 10, "height": 10, "chars":["\ue038"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/stuck_out_tongue.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue039"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/stuck_out_tongue.png",
+        "ascent": 10, "height": 10, "chars":["\ue039"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/sunglasses.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03a"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sunglasses.png",
+        "ascent": 10, "height": 10, "chars":["\ue03a"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/sword.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03b"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sword.png",
+        "ascent": 10, "height": 10, "chars":["\ue03b"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/thumbsdown.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03c"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/thumbsdown.png",
+        "ascent": 10, "height": 10, "chars":["\ue03c"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/thumbsup.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03d"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/thumbsup.png",
+        "ascent": 10, "height": 10, "chars":["\ue03d"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/triumph.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03e"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/triumph.png",
+        "ascent": 10, "height": 10, "chars":["\ue03e"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/wink.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue03f"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/wink.png",
+        "ascent": 10, "height": 10, "chars":["\ue03f"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/worried.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue040"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/worried.png",
+        "ascent": 10, "height": 10, "chars":["\ue040"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/emoji/yellow_heart.png",
-        "ascent": 10,
-        "height": 10,
-        "chars":["\ue041"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/yellow_heart.png",
+        "ascent": 10, "height": 10, "chars":["\ue041"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/absorption.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue100"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/absorption.png",
+        "ascent": 8, "height": 10, "chars":["\ue100"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/armor_toughness.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue101"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/armor_toughness.png",
+        "ascent": 8, "height": 10, "chars":["\ue101"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/armor.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue102"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/armor.png",
+        "ascent": 8, "height": 10, "chars":["\ue102"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/attack_damage.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue103"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/attack_damage.png",
+        "ascent": 8, "height": 10, "chars":["\ue103"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/attack_speed.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue104"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/attack_speed.png",
+        "ascent": 8, "height": 10, "chars":["\ue104"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/bad_omen.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue105"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/bad_omen.png",
+        "ascent": 8, "height": 10, "chars":["\ue105"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/blast_resistance.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue106"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/blast_resistance.png",
+        "ascent": 8, "height": 10, "chars":["\ue106"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/blindness.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue107"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/blindness.png",
+        "ascent": 8, "height": 10, "chars":["\ue107"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/conduit_power.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue108"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/conduit_power.png",
+        "ascent": 8, "height": 10, "chars":["\ue108"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/dolphins_grace.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue109"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/dolphins_grace.png",
+        "ascent": 8, "height": 10, "chars":["\ue109"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_axe.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10a"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_axe.png",
+        "ascent": 8, "height": 10, "chars":["\ue10a"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_book.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10b"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_book.png",
+        "ascent": 8, "height": 10, "chars":["\ue10b"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_boots.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10c"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_boots.png",
+        "ascent": 8, "height": 10, "chars":["\ue10c"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_bow.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10d"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_bow.png",
+        "ascent": 8, "height": 10, "chars":["\ue10d"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_chestplate.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10e"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_chestplate.png",
+        "ascent": 8, "height": 10, "chars":["\ue10e"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_crossbow.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue10f"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_crossbow.png",
+        "ascent": 8, "height": 10, "chars":["\ue10f"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_curse.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue110"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_curse.png",
+        "ascent": 8, "height": 10, "chars":["\ue110"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_fishing_rod.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue111"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_fishing_rod.png",
+        "ascent": 8, "height": 10, "chars":["\ue111"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_helmet.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue112"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_helmet.png",
+        "ascent": 8, "height": 10, "chars":["\ue112"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_hoe.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue113"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_hoe.png",
+        "ascent": 8, "height": 10, "chars":["\ue113"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_leggings.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue114"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_leggings.png",
+        "ascent": 8, "height": 10, "chars":["\ue114"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_pickaxe.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue115"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_pickaxe.png",
+        "ascent": 8, "height": 10, "chars":["\ue115"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_shears.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue116"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_shears.png",
+        "ascent": 8, "height": 10, "chars":["\ue116"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_shovel.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue117"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_shovel.png",
+        "ascent": 8, "height": 10, "chars":["\ue117"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_sword.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue118"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_sword.png",
+        "ascent": 8, "height": 10, "chars":["\ue118"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enchant_trident.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue119"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enchant_trident.png",
+        "ascent": 8, "height": 10, "chars":["\ue119"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/enderbound.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue11a"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/enderbound.png",
+        "ascent": 8, "height": 10, "chars":["\ue11a"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/fire_resistance.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue11b"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/fire_resistance.png",
+        "ascent": 8, "height": 10, "chars":["\ue11b"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/food_full.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue11c"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/food_full.png",
+        "ascent": 8, "height": 10, "chars":["\ue11c"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/food_half.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue11d"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/food_half.png",
+        "ascent": 8, "height": 10, "chars":["\ue11d"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/glowing.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue11e"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/glowing.png",
+        "ascent": 8, "height": 10, "chars":["\ue11e"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/green_arrow_up.png",
-        "ascent": 7,
-        "height": 9,
-        "chars":["\ue11f"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/green_arrow_up.png",
+        "ascent": 7, "height": 9, "chars":["\ue11f"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/haste.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue120"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/haste.png",
+        "ascent": 8, "height": 10, "chars":["\ue120"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/health_boost.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue121"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/health_boost.png",
+        "ascent": 8, "height": 10, "chars":["\ue121"]
     },
     {
-        "type":"bitmap",
-        "file":"emeraldplus:interfaceplus/font/icon/hero_of_the_village.png",
-        "ascent": 8,
-        "height": 10,
-        "chars":["\ue122"]
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/hero_of_the_village.png",
+        "ascent": 8, "height": 10, "chars":["\ue122"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/hunger.png",
@@ -746,7 +482,7 @@
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/wither.png",
         "ascent": 8, "height": 10, "chars":["\ue13c"]
-    },
+    }
 ]
 
 }
