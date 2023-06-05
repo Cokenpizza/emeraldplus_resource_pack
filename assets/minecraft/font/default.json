@@ -252,7 +252,7 @@
         "ascent": 8, "height": 9, "chars":["\ue103"]
     },
     {
-        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/attack_speenchanted.png",
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/attack_speed.png",
         "ascent": 8, "height": 9, "chars":["\ue104"]
     },
     {
