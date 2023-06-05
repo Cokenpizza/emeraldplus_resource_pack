@@ -482,6 +482,62 @@
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/darkness.png",
         "ascent": 8, "height": 8, "chars":["\ue13d"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/blank_vanilla_menu.png",
+        "ascent": 170, "height": 170, "chars":["\ue1a0"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/bottom_news.png",
+        "ascent": -8, "height": 78, "chars":["\ue1a1"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/quit_button.png",
+        "ascent": 13, "height": 20, "chars":["\ue1a2"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/rp_menu_background.png",
+        "ascent": 9, "height": 34, "chars":["\ue1a3"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/pause/server_name_pause.png",
+        "ascent": 96, "height": 103, "chars":["\ue1a4"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/tab/server_name_tab.png",
+        "ascent": 7, "height": 60, "chars":["\ue1a5"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/toast/new_day.png",
+        "ascent": 25, "height": 32, "chars":["\ue1a6"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_day.png",
+        "ascent": 8, "height": 9, "chars":["\ue1a7"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_midnight.png",
+        "ascent": 8, "height": 9, "chars":["\ue1a8"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_night.png",
+        "ascent": 8, "height": 9, "chars":["\ue1a9"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_noon.png",
+        "ascent": 8, "height": 9, "chars":["\ue1aa"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_placeholder.png",
+        "ascent": 8, "height": 9, "chars":["\ue1ab"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_sunrise.png",
+        "ascent": 8, "height": 9, "chars":["\ue1ac"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/menu/topbar/time/time_sunset.png",
+        "ascent": 8, "height": 9, "chars":["\ue1ad"]
     }
 ]
 
