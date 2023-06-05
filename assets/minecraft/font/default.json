@@ -37,203 +37,203 @@
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/alex.png",
-        "ascent": 8, "height": 10, "chars":["\ue010"]
+        "ascent": 8, "height": 8, "chars":["\ue010"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/angel.png",
-        "ascent": 8, "height": 10, "chars":["\ue011"]
+        "ascent": 8, "height": 8, "chars":["\ue011"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/angry.png",
-        "ascent": 8, "height": 10, "chars":["\ue012"]
+        "ascent": 8, "height": 8, "chars":["\ue012"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/axe.png",
-        "ascent": 8, "height": 10, "chars":["\ue013"]
+        "ascent": 8, "height": 8, "chars":["\ue013"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/cold_face.png",
-        "ascent": 8, "height": 10, "chars":["\ue014"]
+        "ascent": 8, "height": 8, "chars":["\ue014"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/confused.png",
-        "ascent": 8, "height": 10, "chars":["\ue015"]
+        "ascent": 8, "height": 8, "chars":["\ue015"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/crafting_table.png",
-        "ascent": 8, "height": 10, "chars":["\ue016"]
+        "ascent": 8, "height": 8, "chars":["\ue016"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/cry.png",
-        "ascent": 8, "height": 10, "chars":["\ue017"]
+        "ascent": 8, "height": 8, "chars":["\ue017"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/diamond.png",
-        "ascent": 8, "height": 10, "chars":["\ue018"]
+        "ascent": 8, "height": 8, "chars":["\ue018"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/disappointed.png",
-        "ascent": 8, "height": 10, "chars":["\ue019"]
+        "ascent": 8, "height": 8, "chars":["\ue019"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/dizzy_face.png",
-        "ascent": 8, "height": 10, "chars":["\ue01a"]
+        "ascent": 8, "height": 8, "chars":["\ue01a"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/emerald_plus.png",
-        "ascent": 8, "height": 10, "chars":["\ue01b"]
+        "ascent": 8, "height": 8, "chars":["\ue01b"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/emerald.png",
-        "ascent": 8, "height": 10, "chars":["\ue01c"]
+        "ascent": 8, "height": 8, "chars":["\ue01c"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/expressionless.png",
-        "ascent": 8, "height": 10, "chars":["\ue01d"]
+        "ascent": 8, "height": 8, "chars":["\ue01d"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/eyes.png",
-        "ascent": 8, "height": 10, "chars":["\ue01e"]
+        "ascent": 8, "height": 8, "chars":["\ue01e"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/face_vomiting.png",
-        "ascent": 8, "height": 10, "chars":["\ue01f"]
+        "ascent": 8, "height": 8, "chars":["\ue01f"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/face_with_monocle.png",
-        "ascent": 8, "height": 10, "chars":["\ue020"]
+        "ascent": 8, "height": 8, "chars":["\ue020"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/frowning.png",
-        "ascent": 8, "height": 10, "chars":["\ue021"]
+        "ascent": 8, "height": 8, "chars":["\ue021"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/gold.png",
-        "ascent": 8, "height": 10, "chars":["\ue021"]
+        "ascent": 8, "height": 8, "chars":["\ue021"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/golden_apple.png",
-        "ascent": 8, "height": 10, "chars":["\ue022"]
+        "ascent": 8, "height": 8, "chars":["\ue022"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/grass.png",
-        "ascent": 8, "height": 10, "chars":["\ue023"]
+        "ascent": 8, "height": 8, "chars":["\ue023"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/heart_eyes.png",
-        "ascent": 8, "height": 10, "chars":["\ue024"]
+        "ascent": 8, "height": 8, "chars":["\ue024"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/heart.png",
-        "ascent": 8, "height": 10, "chars":["\ue025"]
+        "ascent": 8, "height": 8, "chars":["\ue025"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/iron_golem_flower.png",
-        "ascent": 8, "height": 10, "chars":["\ue026"]
+        "ascent": 8, "height": 8, "chars":["\ue026"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/iron.png",
-        "ascent": 8, "height": 10, "chars":["\ue027"]
+        "ascent": 8, "height": 8, "chars":["\ue027"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/joy.png",
-        "ascent": 8, "height": 10, "chars":["\ue028"]
+        "ascent": 8, "height": 8, "chars":["\ue028"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/lapis.png",
-        "ascent": 8, "height": 10, "chars":["\ue029"]
+        "ascent": 8, "height": 8, "chars":["\ue029"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/lava_bucket.png",
-        "ascent": 8, "height": 10, "chars":["\ue02a"]
+        "ascent": 8, "height": 8, "chars":["\ue02a"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/mask.png",
-        "ascent": 8, "height": 10, "chars":["\ue02b"]
+        "ascent": 8, "height": 8, "chars":["\ue02b"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/nauseated_face.png",
-        "ascent": 8, "height": 10, "chars":["\ue02c"]
+        "ascent": 8, "height": 8, "chars":["\ue02c"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/nerd.png",
-        "ascent": 8, "height": 10, "chars":["\ue02d"]
+        "ascent": 8, "height": 8, "chars":["\ue02d"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/pickaxe.png",
-        "ascent": 8, "height": 10, "chars":["\ue02e"]
+        "ascent": 8, "height": 8, "chars":["\ue02e"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/redstone.png",
-        "ascent": 8, "height": 10, "chars":["\ue02f"]
+        "ascent": 8, "height": 8, "chars":["\ue02f"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/scream.png",
-        "ascent": 8, "height": 10, "chars":["\ue030"]
+        "ascent": 8, "height": 8, "chars":["\ue030"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/shovel.png",
-        "ascent": 8, "height": 10, "chars":["\ue031"]
+        "ascent": 8, "height": 8, "chars":["\ue031"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/skull.png",
-        "ascent": 8, "height": 10, "chars":["\ue032"]
+        "ascent": 8, "height": 8, "chars":["\ue032"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sleeping.png",
-        "ascent": 8, "height": 10, "chars":["\ue033"]
+        "ascent": 8, "height": 8, "chars":["\ue033"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/smile.png",
-        "ascent": 8, "height": 10, "chars":["\ue034"]
+        "ascent": 8, "height": 8, "chars":["\ue034"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sneezing_face.png",
-        "ascent": 8, "height": 10, "chars":["\ue035"]
+        "ascent": 8, "height": 8, "chars":["\ue035"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sob.png",
-        "ascent": 8, "height": 10, "chars":["\ue036"]
+        "ascent": 8, "height": 8, "chars":["\ue036"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/star_struck.png",
-        "ascent": 8, "height": 10, "chars":["\ue037"]
+        "ascent": 8, "height": 8, "chars":["\ue037"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/steve.png",
-        "ascent": 8, "height": 10, "chars":["\ue038"]
+        "ascent": 8, "height": 8, "chars":["\ue038"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/stuck_out_tongue.png",
-        "ascent": 8, "height": 10, "chars":["\ue039"]
+        "ascent": 8, "height": 8, "chars":["\ue039"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sunglasses.png",
-        "ascent": 8, "height": 10, "chars":["\ue03a"]
+        "ascent": 8, "height": 8, "chars":["\ue03a"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/sword.png",
-        "ascent": 8, "height": 10, "chars":["\ue03b"]
+        "ascent": 8, "height": 8, "chars":["\ue03b"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/thumbsdown.png",
-        "ascent": 8, "height": 10, "chars":["\ue03c"]
+        "ascent": 8, "height": 8, "chars":["\ue03c"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/thumbsup.png",
-        "ascent": 8, "height": 10, "chars":["\ue03d"]
+        "ascent": 8, "height": 8, "chars":["\ue03d"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/triumph.png",
-        "ascent": 8, "height": 10, "chars":["\ue03e"]
+        "ascent": 8, "height": 8, "chars":["\ue03e"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/wink.png",
-        "ascent": 8, "height": 10, "chars":["\ue03f"]
+        "ascent": 8, "height": 8, "chars":["\ue03f"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/emoji/worried.png",
-        "ascent": 8, "height": 10, "chars":["\ue040"]
+        "ascent": 8, "height": 8, "chars":["\ue040"]
     },
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/icon/absorption.png",
