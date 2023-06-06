@@ -943,6 +943,294 @@
     {
         "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/levels/level_emerald.png",
         "ascent": 8, "height": 9, "chars":["\ue273"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/loretags/rarity_cosmetic.png",
+        "ascent": 7, "height": 7, "chars":["\ue280"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/loretags/cosmetic_crate.png",
+        "ascent": 7, "height": 7, "chars":["\ue281"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/icon_admin.png",
+        "ascent": 8, "height": 9, "chars":["\ue2a0"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/rank_admin.png",
+        "ascent": 7, "height": 8, "chars":["\ue2a1"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/icon_staff.png",
+        "ascent": 8, "height": 9, "chars":["\ue2a2"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/rank_staff.png",
+        "ascent": 7, "height": 8, "chars":["\ue2a3"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_amethyst.png",
+        "ascent": 8, "height": 9, "chars":["\ue2a4"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_amethyst.png",
+        "ascent": 7, "height": 8, "chars":["\ue2a5"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_amethystplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2a6"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_amethystplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2a7"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_coal.png",
+        "ascent": 8, "height": 9, "chars":["\ue2a8"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_coal.png",
+        "ascent": 7, "height": 8, "chars":["\ue2a9"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_coalplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2aa"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_coalplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2ab"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_copper.png",
+        "ascent": 8, "height": 9, "chars":["\ue2ac"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_copper.png",
+        "ascent": 7, "height": 8, "chars":["\ue2ad"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_copperplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2ae"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_copperplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2af"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_deepslate.png",
+        "ascent": 8, "height": 9, "chars":["\ue2b0"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_deepslate.png",
+        "ascent": 7, "height": 8, "chars":["\ue2b1"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_deepslateplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2b2"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_deepslateplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2b3"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_diamond.png",
+        "ascent": 8, "height": 9, "chars":["\ue2b4"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_diamond.png",
+        "ascent": 7, "height": 8, "chars":["\ue2b5"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_diamondplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2b6"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_diamondplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2b7"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_emerald.png",
+        "ascent": 8, "height": 9, "chars":["\ue2b8"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_emerald.png",
+        "ascent": 7, "height": 8, "chars":["\ue2b9"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_emeraldplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2ba"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_emeraldplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2bb"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_gold.png",
+        "ascent": 8, "height": 9, "chars":["\ue2bc"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_gold.png",
+        "ascent": 7, "height": 8, "chars":["\ue2bd"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_goldplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2be"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_goldplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2bf"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_iron.png",
+        "ascent": 8, "height": 9, "chars":["\ue2c0"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_iron.png",
+        "ascent": 7, "height": 8, "chars":["\ue2c1"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_ironplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2c2"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_ironplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2c3"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_lapis.png",
+        "ascent": 8, "height": 9, "chars":["\ue2c4"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_lapis.png",
+        "ascent": 7, "height": 8, "chars":["\ue2c5"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_lapisplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2c6"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_lapisplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2c7"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_quartz.png",
+        "ascent": 8, "height": 9, "chars":["\ue2c8"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_quartz.png",
+        "ascent": 7, "height": 8, "chars":["\ue2c9"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_quartzplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2ca"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_quartzplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2cb"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_redstone.png",
+        "ascent": 8, "height": 9, "chars":["\ue2cc"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_redstone.png",
+        "ascent": 7, "height": 8, "chars":["\ue2cd"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_redstoneplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2ce"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_redstoneplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2cf"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/icon_stone.png",
+        "ascent": 8, "height": 9, "chars":["\ue2d0"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/free/rank_stone.png",
+        "ascent": 7, "height": 8, "chars":["\ue2d1"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/icon_stoneplus.png",
+        "ascent": 8, "height": 9, "chars":["\ue2d2"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/ranks/premium/rank_stoneplus.png",
+        "ascent": 7, "height": 8, "chars":["\ue2d3"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_acrobatics.png",
+        "ascent": 7, "height": 7, "chars":["\ue300"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_alchemy.png",
+        "ascent": 7, "height": 7, "chars":["\ue301"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_archery.png",
+        "ascent": 7, "height": 7, "chars":["\ue302"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_axes.png",
+        "ascent": 7, "height": 7, "chars":["\ue303"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_excavation.png",
+        "ascent": 7, "height": 7, "chars":["\ue304"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_fishing.png",
+        "ascent": 7, "height": 7, "chars":["\ue305"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_herbalism.png",
+        "ascent": 7, "height": 7, "chars":["\ue306"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_mining.png",
+        "ascent": 7, "height": 7, "chars":["\ue307"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_repair.png",
+        "ascent": 7, "height": 7, "chars":["\ue308"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_salvage.png",
+        "ascent": 7, "height": 7, "chars":["\ue309"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_smelting.png",
+        "ascent": 7, "height": 7, "chars":["\ue30a"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_swords.png",
+        "ascent": 7, "height": 7, "chars":["\ue30b"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_taming.png",
+        "ascent": 7, "height": 7, "chars":["\ue30c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/talents/talent_woodcutting.png",
+        "ascent": 7, "height": 7, "chars":["\ue30c"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/worlds/world_theclouds.png",
+        "ascent": 8, "height": 9, "chars":["\ue320"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/worlds/world_theend.png",
+        "ascent": 8, "height": 9, "chars":["\ue321"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/worlds/world_thenether.png",
+        "ascent": 8, "height": 9, "chars":["\ue322"]
+    },
+    {
+        "type":"bitmap", "file":"emeraldplus:interfaceplus/font/chattags/worlds/world_theoverworld.png",
+        "ascent": 8, "height": 9, "chars":["\ue323"]
     }
 ]
 
