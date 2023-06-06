@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "emeraldplus:interfaceplus/uiitems/icon_time_night"
+    }
+}

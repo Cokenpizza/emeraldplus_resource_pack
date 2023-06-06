@@ -4,6 +4,12 @@
 		"layer0": "item/paper"
 	},
 	"overrides": [
+		{ "predicate": {  "custom_model_data": 1001 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_day"},
+		{ "predicate": {  "custom_model_data": 1002 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_midnight"},
+		{ "predicate": {  "custom_model_data": 1003 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_night"},
+		{ "predicate": {  "custom_model_data": 1004 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_noon"},
+		{ "predicate": {  "custom_model_data": 1005 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_sunrise"},
+		{ "predicate": {  "custom_model_data": 1006 }, "model": "emeraldplus:interfaceplus/uiitems/icon_time_sunset"},
 		{ "predicate": {  "custom_model_data": 2002 }, "model": "emeraldplus:emeraldplus/health/heart_crystal"},
 		{ "predicate": {  "custom_model_data": 2003 }, "model": "emeraldplus:emeraldplus/health/heart_shard"},
 		{ "predicate": {  "custom_model_data": 2004 }, "model": "emeraldplus:emeraldplus/health/heart_dust"},
