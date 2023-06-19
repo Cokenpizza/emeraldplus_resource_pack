@@ -7,6 +7,7 @@
     "overrides": [
         { "predicate": {"custom_model_data": 3001}, "model": "emeraldplus:overworldplus/copper/copper_leggings"},
         { "predicate": {"custom_model_data": 3002}, "model": "emeraldplus:overworldplus/mineralite/mineralite_leggings"},
-        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/enderite/enderite_leggings"}
+        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/enderite/enderite_leggings"},
+        { "predicate": {"custom_model_data": 7001}, "model": "emeraldplus:cosmeticsplus/emerald/emerald_leggings"}
     ]
     }

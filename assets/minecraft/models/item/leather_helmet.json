@@ -7,6 +7,7 @@
     "overrides": [
         { "predicate": {"custom_model_data": 3001}, "model": "emeraldplus:overworldplus/copper/copper_helmet"},
         { "predicate": {"custom_model_data": 3002}, "model": "emeraldplus:overworldplus/mineralite/mineralite_helmet"},
-        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/enderite/enderite_helmet"}
+        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/enderite/enderite_helmet"},
+        { "predicate": {"custom_model_data": 7001}, "model": "emeraldplus:cosmeticsplus/emerald/emerald_helmet"}
     ]
     }
