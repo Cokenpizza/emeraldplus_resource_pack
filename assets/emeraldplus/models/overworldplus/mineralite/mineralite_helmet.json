@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_helmet",
+        "layer0": "emeraldplus:overworldplus/mineralite/mineralite_helmet",
         "layer1": "emeraldplus:overworldplus/mineralite/mineralite_helmet"
     }
     }

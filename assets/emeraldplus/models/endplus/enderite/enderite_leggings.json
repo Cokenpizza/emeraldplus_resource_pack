@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_leggings",
+        "layer0": "emeraldplus:endplus/enderite/enderite_leggings",
         "layer1": "emeraldplus:endplus/enderite/enderite_leggings"
     }
     }

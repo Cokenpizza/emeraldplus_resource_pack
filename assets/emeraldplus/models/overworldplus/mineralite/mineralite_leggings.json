@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_leggings",
+        "layer0": "emeraldplus:overworldplus/mineralite/mineralite_leggings",
         "layer1": "emeraldplus:overworldplus/mineralite/mineralite_leggings"
     }
     }

@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_boots",
+        "layer0": "emeraldplus:overworldplus/copper/copper_boots",
         "layer1": "emeraldplus:overworldplus/copper/copper_boots"
     }
     }
