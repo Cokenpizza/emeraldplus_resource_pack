@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+    "layer0": "item/leather_chestplate",
+    "layer1": "item/leather_chestplate_overlay"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 3001}, "model": "emeraldplus:overworldplus/copper/copper_chestplate"},
+        { "predicate": {"custom_model_data": 3002}, "model": "emeraldplus:overworldplus/mineralite/mineralite_chestplate"},
+        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/enderite/enderite_chestplate"}
+    ]
+    }
