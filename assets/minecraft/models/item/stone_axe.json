@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/copper/copper_axe"},
 		{ "predicate": {  "custom_model_data": 3002 }, "model": "emeraldplus:overworldplus/copper/copper_battleaxe"},
-		{ "predicate": {  "custom_model_data": 3011 }, "model": "emeraldplus:overworldplus/stone/stone_battleaxe"}
+		{ "predicate": {  "custom_model_data": 3011 }, "model": "emeraldplus:overworldplus/stone/stone_battleaxe"},
+		{ "predicate": {  "custom_model_data": 7001 }, "model": "emeraldplus:cosmeticsplus/emerald/emerald_axe"}
 	]
 }

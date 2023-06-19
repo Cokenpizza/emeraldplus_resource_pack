@@ -1,10 +1,9 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/stone_shovel"
+		"layer0": "item/diamond_shovel"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/copper/copper_shovel"},
 		{ "predicate": {  "custom_model_data": 7001 }, "model": "emeraldplus:cosmeticsplus/emerald/emerald_shovel"}
 	]
 }
