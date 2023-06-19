@@ -4,8 +4,8 @@
 		"layer0": "item/stone_axe"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 3012 }, "model": "emeraldplus:overworldplus/copper/copper_axe"},
-		{ "predicate": {  "custom_model_data": 3031 }, "model": "emeraldplus:overworldplus/stone/stone_battleaxe"},
-		{ "predicate": {  "custom_model_data": 3032 }, "model": "emeraldplus:overworldplus/copper/copper_battleaxe"}
+		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/copper/copper_axe"},
+		{ "predicate": {  "custom_model_data": 3002 }, "model": "emeraldplus:overworldplus/copper/copper_battleaxe"},
+		{ "predicate": {  "custom_model_data": 3011 }, "model": "emeraldplus:overworldplus/stone/stone_battleaxe"}
 	]
 }

@@ -4,6 +4,6 @@
 		"layer0": "item/stone_sword"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 3012 }, "model": "emeraldplus:overworldplus/copper/copper_sword"}
+		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/copper/copper_sword"}
 	]
 }

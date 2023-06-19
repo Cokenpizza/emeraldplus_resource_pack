@@ -4,6 +4,6 @@
 		"layer0": "item/diamond_axe"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 3031 }, "model": "emeraldplus:overworldplus/diamond/diamond_battleaxe"}
+		{ "predicate": {  "custom_model_data": 3011 }, "model": "emeraldplus:overworldplus/diamond/diamond_battleaxe"}
 	]
 }

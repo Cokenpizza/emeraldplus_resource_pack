@@ -4,9 +4,10 @@
 		"layer0": "item/netherite_axe"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 3022 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_axe"},
-    	{ "predicate": {  "custom_model_data": 3031 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_battleaxe"},
-		{ "predicate": {  "custom_model_data": 5032 }, "model": "emeraldplus:endplus/enderite/enderite_axe"},
-		{ "predicate": {  "custom_model_data": 5033 }, "model": "emeraldplus:endplus/enderite/enderite_battleaxe"}
+		{ "predicate": {  "custom_model_data": 3012 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_axe"},
+    	{ "predicate": {  "custom_model_data": 3013 }, "model": "emeraldplus:overworldplus/mineralite/mineralite_battleaxe"},
+    	{ "predicate": {  "custom_model_data": 4011 }, "model": "emeraldplus:netherplus/netherite/netherite_battleaxe"},
+		{ "predicate": {  "custom_model_data": 5001 }, "model": "emeraldplus:endplus/enderite/enderite_axe"},
+		{ "predicate": {  "custom_model_data": 5002 }, "model": "emeraldplus:endplus/enderite/enderite_battleaxe"}
 	]
 }

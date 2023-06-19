@@ -5,7 +5,7 @@
     "layer1": "item/potion"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 2041}, "model": "emeraldplus:emeraldplus/alchemy/potion_of_experience"},
-        { "predicate": {"custom_model_data": 5041}, "model": "emeraldplus:endplus/alchemy/pearlescent_potion"}
+        { "predicate": {"custom_model_data": 2001}, "model": "emeraldplus:emeraldplus/alchemy/potion_of_experience"},
+        { "predicate": {"custom_model_data": 5001}, "model": "emeraldplus:endplus/alchemy/pearlescent_potion"}
     ]
     }
