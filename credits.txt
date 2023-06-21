@@ -1,0 +1,31 @@
+Emerald+ Resource Pack assembled by Cokenpizza
+
+Both Original and Modified Usage:
+
+GUIdes by WeNAN Studios: https://www.planetminecraft.com/texture-pack/guides/
+Fixed Naming by NeraW: https://www.planetminecraft.com/texture-pack/fixed-naming-java/
+Player Rank Icons by Vierdant: https://mythiccraft.io/index.php?resources/player-rank-icons-font-textures-140-icons-oraxen-itemsadder-support.748/
+Heart Crystals by DanMizu: https://www.planetminecraft.com/data-pack/heart-crystals-increase-your-max-health/
+"Breaker Fist" Pickaxe by Mr_Monotone_: https://www.planetminecraft.com/texture-pack/breaker-fist-pickaxe-cit/
+Fancy GUI Overhaul by botanydev: https://www.curseforge.com/minecraft/texture-packs/fancy-gui-overhaul
+Icons (inspiration only - all textures custom made) by WeNAN Studios: https://www.curseforge.com/minecraft/texture-packs/icons
+Unique Spawn Eggs by Gouchnox: https://www.planetminecraft.com/member/gouchnox/
+Double Axe by Torrezx: https://www.curseforge.com/minecraft/texture-packs/torrezx-double-axe
+
+Original Usage:
+
+Splash Potion of Experience by Torrezx: https://www.planetminecraft.com/texture-pack/lingering-experience-bottle-and-splash-experience-bottle/
+Copper+ by Mr_Nipz: https://www.spigotmc.org/resources/copper.102435/
+Galaxy Armor by LoneDev: https://www.spigotmc.org/resources/armors-custom-cosmetic-armors-for-itemsadder.97687/
+Better Emerald by Sr_Paulo: https://www.planetminecraft.com/texture-pack/better-emerald-5664871/
+Butterflies by Manuel XXVI: https://www.planetminecraft.com/texture-pack/xxvi-s-vanilla-butterflies/
+Full Bundles by DartCat25: https://www.planetminecraft.com/texture-pack/full-bundles/
+Better Effects by Torrezx: https://www.planetminecraft.com/texture-pack/effects-help/
+(Wild) Onion from Farmer's Delight by vectorwing: https://www.curseforge.com/minecraft/mc-mods/farmers-delight
+
+Commissioned:
+
+Mineralite Armor by idf*: https://www.artstation.com/idf
+Enderite Armor by idf*: https://www.artstation.com/idf
+
+All other assets made by Cokenpizza
