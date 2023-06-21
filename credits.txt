@@ -6,11 +6,11 @@ GUIdes by WeNAN Studios: https://www.planetminecraft.com/texture-pack/guides/
 Fixed Naming by NeraW: https://www.planetminecraft.com/texture-pack/fixed-naming-java/
 Player Rank Icons by Vierdant: https://mythiccraft.io/index.php?resources/player-rank-icons-font-textures-140-icons-oraxen-itemsadder-support.748/
 Heart Crystals by DanMizu: https://www.planetminecraft.com/data-pack/heart-crystals-increase-your-max-health/
-"Breaker Fist" Pickaxe by Mr_Monotone_: https://www.planetminecraft.com/texture-pack/breaker-fist-pickaxe-cit/
 Fancy GUI Overhaul by botanydev: https://www.curseforge.com/minecraft/texture-packs/fancy-gui-overhaul
-Icons (inspiration only - all textures custom made) by WeNAN Studios: https://www.curseforge.com/minecraft/texture-packs/icons
+Icons (inspiration only - all textures custom made or minecraft default) by WeNAN Studios: https://www.curseforge.com/minecraft/texture-packs/icons
 Unique Spawn Eggs by Gouchnox: https://www.planetminecraft.com/member/gouchnox/
 Double Axe by Torrezx: https://www.curseforge.com/minecraft/texture-packs/torrezx-double-axe
+Cooked Carrots by MarsThePlanet: https://www.planetminecraft.com/mod/cooked-carrots-1-18-2-1-19-2/
 
 Original Usage:
 
