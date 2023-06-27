@@ -15,7 +15,7 @@ Unique Dusts by carriecare: https://www.planetminecraft.com/texture-pack/unique-
 Bed Items by carriecare: https://www.planetminecraft.com/texture-pack/bed-items/ (https://www.planetminecraft.com/member/carriecare/)
 Carpet Rolls by carriecare: https://www.planetminecraft.com/texture-pack/carpet-rolls/ (https://www.planetminecraft.com/member/carriecare/)
 
-Original Usage:
+Unmodified Usage:
 
 Splash Potion of Experience by Torrezx: https://www.planetminecraft.com/texture-pack/lingering-experience-bottle-and-splash-experience-bottle/
 Copper+ by Mr_Nipz: https://www.spigotmc.org/resources/copper.102435/
@@ -28,6 +28,7 @@ Better Effects by Torrezx: https://www.planetminecraft.com/texture-pack/effects-
 Distinguishable Banner Patterns by Kremaca: https://www.planetminecraft.com/texture-pack/distinguishable-banner-patterns/
 Better Soups (and custom soup inspiration) by JerryJace: https://www.planetminecraft.com/texture-pack/better-soup-texture-pack-5687575/
 Better Berries by JerryJace: https://www.planetminecraft.com/texture-pack/better-berries-texture-pack/
+2D Player Heads by PixelsOnPoint: https://mcmodels.net/model/2d-minecraft-heads/
 
 Commissioned:
 
