@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/food/fried_egg"},
 		{ "predicate": {  "custom_model_data": 3002 }, "model": "emeraldplus:overworldplus/crops/cooked_carrot"},
-		{ "predicate": {  "custom_model_data": 3003 }, "model": "emeraldplus:overworldplus/crops/wild_onion"}
+		{ "predicate": {  "custom_model_data": 3003 }, "model": "emeraldplus:overworldplus/crops/wild_onion"},
+		{ "predicate": {  "custom_model_data": 3004 }, "model": "emeraldplus:overworldplus/food/fried_chicken"}
 	]
 }
