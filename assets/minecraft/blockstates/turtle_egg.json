@@ -1,0 +1,140 @@
+{
+  "variants": {
+    "eggs=1,hatch=0": [{
+      "model": "minecraft:block/turtle_egg/turtle_egg"
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_22"
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_22", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_45"
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_45", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_45", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_45", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_-22"
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_-22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_-22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/turtle_egg_-22", "y": 270
+    } 
+   ],
+    "eggs=2,hatch=0": [{
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs"
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_22"
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_22", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_45"
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_45", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_45", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_45", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_-22"
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_-22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_-22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/two_turtle_eggs_-22", "y": 270
+    } 
+   ],
+    "eggs=3,hatch=0": [{
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs"
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_22"
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_22", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_45"
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_45", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_45", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_45", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_-22"
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_-22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_-22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/three_turtle_eggs_-22", "y": 270
+    }
+   ],
+    "eggs=4,hatch=0": [{
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs"
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_22"
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_22", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_45"
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_45", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_45", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_45", "y": 270
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_-22"
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_-22", "y": 90
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_-22", "y": 180
+    }, {
+      "model": "minecraft:block/turtle_egg/four_turtle_eggs_-22", "y": 270
+    }
+   ]
+  }
+} 

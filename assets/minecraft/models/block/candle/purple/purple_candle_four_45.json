@@ -1,0 +1,6 @@
+{
+	"parent": "block/candle/def/candle_four_45",
+	"textures": { 
+	   "texture": "block/purple_candle"
+    }
+}

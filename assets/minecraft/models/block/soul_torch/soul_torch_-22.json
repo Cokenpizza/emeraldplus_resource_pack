@@ -1,0 +1,7 @@
+{
+    "parent": "block/torch/torch_-22",
+    "textures": {
+        "torch": "block/soul_torch",
+		"particle": "block/soul_torch"
+    }
+}

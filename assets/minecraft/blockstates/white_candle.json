@@ -1,0 +1,44 @@
+{
+  "variants": {
+    "candles=1": [{
+      "model": "minecraft:block/candle/white/white_candle"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_22"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_45"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_-22"
+    } 
+   ],
+    "candles=2": [{
+      "model": "minecraft:block/candle/white/white_candle_two"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_two_22"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_two_45"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_two_-22"
+    } 
+   ],
+    "candles=3": [{
+      "model": "minecraft:block/candle/white/white_candle_three"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_three_22"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_three_45"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_three_-22"
+    } 
+   ],
+    "candles=4": [{
+      "model": "minecraft:block/candle/white/white_candle_four"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_four_22"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_four_45"
+    }, {
+      "model": "minecraft:block/candle/white/white_candle_four_-22"
+    } 
+   ]
+  }
+} 

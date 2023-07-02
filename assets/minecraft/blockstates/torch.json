@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/torch/torch" },
+		{ "model": "block/torch/torch_22" },
+		{ "model": "block/torch/torch_45" },
+		{ "model": "block/torch/torch_-22" }
+		]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/soul_torch/soul_torch" },
+		{ "model": "block/soul_torch/soul_torch_22" },
+		{ "model": "block/soul_torch/soul_torch_45" },
+		{ "model": "block/soul_torch/soul_torch_-22" }
+		]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/redstone_torch/redstone_torch" },
+		{ "model": "block/redstone_torch/redstone_torch_22" },
+		{ "model": "block/redstone_torch/redstone_torch_45" },
+		{ "model": "block/redstone_torch/redstone_torch_-22" }
+		]
+    }
+}

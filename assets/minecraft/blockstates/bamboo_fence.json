@@ -1,0 +1,149 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "OR": [
+          {
+            "north": false,
+            "east": false,
+            "south": false,
+            "west": false
+          },
+          {
+            "north": true,
+            "east": false,
+            "south": false,
+            "west": false
+          },
+          {
+            "north": false,
+            "east": true,
+            "south": false,
+            "west": false
+          },
+          {
+            "north": false,
+            "east": false,
+            "south": true,
+            "west": false
+          },
+          {
+            "north": false,
+            "east": false,
+            "south": false,
+            "west": true
+          },
+          {
+            "north": true,
+            "east": true,
+            "south": false,
+            "west": false
+          },
+          {
+            "north": true,
+            "east": false,
+            "south": false,
+            "west": true
+          },
+          {
+            "north": false,
+            "east": true,
+            "south": true,
+            "west": false
+          },
+          {
+            "north": false,
+            "east": false,
+            "south": true,
+            "west": true
+          },
+          {
+            "north": true,
+            "east": false,
+            "south": true,
+            "west": false
+          },
+          {
+            "north": false,
+            "east": true,
+            "south": false,
+            "west": true
+          },
+          {
+            "north": true,
+            "east": true,
+            "south": false,
+            "west": true
+          },
+          {
+            "north": false,
+            "east": true,
+            "south": true,
+            "west": true
+          },
+          {
+            "north": true,
+            "east": true,
+            "south": true,
+            "west": false
+          },
+          {
+            "north": true,
+            "east": false,
+            "south": true,
+            "west": true
+          },
+          {
+            "north": true,
+            "east": true,
+            "south": true,
+            "west": true
+          }
+        ]
+      },
+      "apply": [
+		{"model": "minecraft:block/fence_post/bamboo_fence_post","uvlock": true, "weight": 6},
+		{"model": "minecraft:block/fence_post/bamboo_fence_post_22","uvlock": true, "weight": 1},
+		{"model": "minecraft:block/fence_post/bamboo_fence_post_45","uvlock": true, "weight": 1},
+		{"model": "minecraft:block/fence_post/bamboo_fence_post_-22","uvlock": true, "weight": 1}
+      ]
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_north",
+        "uvlock": false
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_east",
+        "uvlock": false
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_south",
+        "uvlock": false
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_west",
+        "uvlock": false
+      },
+      "when": {
+        "west": "true"
+      }
+   }
+  ]
+}
+   

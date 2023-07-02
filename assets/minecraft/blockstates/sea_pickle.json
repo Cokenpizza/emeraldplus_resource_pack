@@ -1,0 +1,500 @@
+{
+  "variants": {
+    "pickles=1,waterlogged=false": [
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/dead_sea_pickle_-22",
+        "y": 270
+      }
+    ],
+    "pickles=1,waterlogged=true": [
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/sea_pickle_-22",
+        "y": 270
+      }
+    ],
+    "pickles=2,waterlogged=false": [
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_dead_sea_pickles_-22",
+        "y": 270
+      }
+    ],
+    "pickles=2,waterlogged=true": [
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/two_sea_pickles_-22",
+        "y": 270
+      }
+    ],
+    "pickles=3,waterlogged=false": [
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_dead_sea_pickles_-22",
+        "y": 270
+      }
+    ],
+    "pickles=3,waterlogged=true": [
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/three_sea_pickles_-22",
+        "y": 270
+      }
+    ],
+    "pickles=4,waterlogged=false": [
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_dead_sea_pickles_-22",
+        "y": 270
+      }
+    ],
+    "pickles=4,waterlogged=true": [
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_22",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_45"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_45",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_45",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_45",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_-22"
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_-22",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_-22",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sea_pickle/four_sea_pickles_-22",
+        "y": 270
+      }
+    ]
+  }
+}
