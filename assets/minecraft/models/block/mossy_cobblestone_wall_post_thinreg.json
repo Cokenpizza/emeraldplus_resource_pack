@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post_thinreg",
+  "textures": {
+    "wall": "minecraft:block/mossy_cobblestone"
+  }
+}

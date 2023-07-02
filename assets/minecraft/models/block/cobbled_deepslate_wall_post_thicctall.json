@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post_thicctall",
+  "textures": {
+    "wall": "minecraft:block/cobbled_deepslate"
+  }
+}
