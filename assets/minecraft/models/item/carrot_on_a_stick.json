@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 5001 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_left"},
+		{ "predicate": {  "custom_model_data": 5002 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_left_closed"}
+	]
+}

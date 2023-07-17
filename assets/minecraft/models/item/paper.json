@@ -31,7 +31,6 @@
 		{ "predicate": {  "custom_model_data": 5002 }, "model": "emeraldplus:endplus/enderite/dragon_scale"},
 		{ "predicate": {  "custom_model_data": 5003 }, "model": "emeraldplus:endplus/enderite/enderite_ingot"},
 		{ "predicate": {  "custom_model_data": 5011 }, "model": "emeraldplus:endplus/treasure/ender_key"},
-		{ "predicate": {  "custom_model_data": 5012 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_left"},
-		{ "predicate": {  "custom_model_data": 5013 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_right"}
+		{ "predicate": {  "custom_model_data": 5012 }, "model": "emeraldplus:endplus/treasure/ender_dragon_eye_left"}
 	]
 }
