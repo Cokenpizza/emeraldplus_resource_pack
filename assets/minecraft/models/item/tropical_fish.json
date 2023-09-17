@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/apple"
+		"layer0": "item/tropical_fish"
 	},
 	"overrides": [
 		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/crops/green_apple"},
