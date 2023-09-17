@@ -16,9 +16,9 @@
 		{ "predicate": {  "custom_model_data": 3051 }, "model": "emeraldplus:overworldplus/fish/sea_anemone"},
 		{ "predicate": {  "custom_model_data": 3052 }, "model": "emeraldplus:overworldplus/fish/angler"},
 		{ "predicate": {  "custom_model_data": 3053 }, "model": "emeraldplus:overworldplus/fish/blue_tang"},
-		{ "predicate": {  "custom_model_data": 3054 }, "model": "emeraldplus:overworldplus/fish/sea_anemone"},
+		{ "predicate": {  "custom_model_data": 3054 }, "model": "emeraldplus:overworldplus/fish/butterfly_fish"},
 		{ "predicate": {  "custom_model_data": 3055 }, "model": "emeraldplus:overworldplus/fish/zombie_fish"},
-		{ "predicate": {  "custom_model_data": 5001 }, "model": "emeraldplus:endplus/food/chorus_pie"},
+		{ "predicate": {  "custom_model_data": 5001 }, "model": "emeraldplus:endplus/food/chorus_fruit_pie"},
 		{ "predicate": {  "custom_model_data": 5031 }, "model": "emeraldplus:endplus/fish/ender_fish"},
 		{ "predicate": {  "custom_model_data": 5032 }, "model": "emeraldplus:endplus/fish/blood_lamprey"}
 	]
