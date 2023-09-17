@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0":"item/flint"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":2001},"model":"emeraldplus:emeraldplus/health/vitalium_ore"},
+        {"predicate":{"custom_model_data":3001},"model":"emeraldplus:overworldplus/blocks/mineralite_block"},
+        {"predicate":{"custom_model_data":3002},"model":"emeraldplus:overworldplus/blocks/salt_block"},
+        {"predicate":{"custom_model_data":4001},"model":"emeraldplus:netherplus/blocks/ore/nether_emerald_ore"},
+        {"predicate":{"custom_model_data":4002},"model":"emeraldplus:netherplus/blocks/brimstone"},
+        {"predicate":{"custom_model_data":5001},"model":"emeraldplus:endplus/blocks/enderite_block"},
+        {"predicate":{"custom_model_data":5002},"model":"emeraldplus:endplus/blocks/ore/ender_ore"},
+        {"predicate":{"custom_model_data":5003},"model":"emeraldplus:endplus/blocks/ore/end_emerald_ore"},
+        {"predicate":{"custom_model_data":5004},"model":"emeraldplus:endplus/blocks/ore/end_lapis_ore"}
+    ]
+}
