@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-    "layer0": "emeraldplus:endplus/alchemy/potion_of_torpor"
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "emeraldplus:endplus/alchemy/potion_of_torpor"
     }
     }

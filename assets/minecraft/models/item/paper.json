@@ -28,6 +28,7 @@
 		{ "predicate": {  "custom_model_data": 3022 }, "model": "emeraldplus:overworldplus/food/butter"},
 		{ "predicate": {  "custom_model_data": 3023 }, "model": "emeraldplus:overworldplus/food/dough"},
 		{ "predicate": {  "custom_model_data": 3041 }, "model": "emeraldplus:overworldplus/treasure/witch_thumb"},
+		{ "predicate": {  "custom_model_data": 3051 }, "model": "emeraldplus:overworldplus/fish/sea_urchin"},
 		{ "predicate": {  "custom_model_data": 4001 }, "model": "emeraldplus:netherplus/treasure/magic_mirror"},
 		{ "predicate": {  "custom_model_data": 4011 }, "model": "emeraldplus:netherplus/alchemy/philosopher_stone"},
 		{ "predicate": {  "custom_model_data": 5001 }, "model": "emeraldplus:endplus/enderite/ender_shard"},
