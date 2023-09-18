@@ -24,6 +24,7 @@
 		{ "predicate": {  "custom_model_data": 3004 }, "model": "emeraldplus:overworldplus/copper/copper_nugget"},
 		{ "predicate": {  "custom_model_data": 3011 }, "model": "emeraldplus:overworldplus/treasure/fallen_star"},
 		{ "predicate": {  "custom_model_data": 3012 }, "model": "emeraldplus:overworldplus/treasure/beacon_core"},
+		{ "predicate": {  "custom_model_data": 3013 }, "model": "emeraldplus:overworldplus/treasure/horse_armor_upgrade_template"},
 		{ "predicate": {  "custom_model_data": 3021 }, "model": "emeraldplus:overworldplus/food/salt"},
 		{ "predicate": {  "custom_model_data": 3022 }, "model": "emeraldplus:overworldplus/food/butter"},
 		{ "predicate": {  "custom_model_data": 3023 }, "model": "emeraldplus:overworldplus/food/dough"},
