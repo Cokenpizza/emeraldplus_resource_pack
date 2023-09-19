@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_upgrade_smithing_template"
+	},
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 3001 }, "model": "emeraldplus:overworldplus/treasure/horse_armor_upgrade_template"}
+	]
+}
